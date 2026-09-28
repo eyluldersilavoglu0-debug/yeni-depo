@@ -50,8 +50,8 @@ st.markdown(f"""
     .result-box .label {{ font-size: 0.95rem; opacity: 0.85; }}
     .warn-box {{
         background-color: #FDEDEC;
-        border: 1.5px solid {RED};
-        color: {NAVY};
+        border: 1.5px solid {NAVY};
+        color: {RED};
         padding: 0.9rem 1.1rem;
         border-radius: 8px;
         font-size: 0.92rem;
