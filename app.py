@@ -51,7 +51,7 @@ st.markdown(f"""
     .warn-box {{
         background-color: #FDEDEC;
         border: 1.5px solid {RED};
-        color: {RED};
+        color: {NAVY};
         padding: 0.9rem 1.1rem;
         border-radius: 8px;
         font-size: 0.92rem;
